@@ -87,6 +87,3 @@ while running:
     hrac()
     nepriatel()
     pygame.display.update()
-
-
-#asdadhjuasduihsfiuhsguighrsdfujio
